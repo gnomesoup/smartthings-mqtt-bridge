@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM insecurity/node-32bit-x87
 MAINTAINER St. John Johnson <st.john.johnson@gmail.com> and Jeremiah Wuenschel <jeremiah.wuenschel@gmail.com>
 
 # Create our application direcory
